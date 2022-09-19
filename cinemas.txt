@@ -1,3 +1,4 @@
 Cineplex Multiplex
 Cineplex Centru
 Odeon
+AutoCinema
